@@ -53,3 +53,7 @@ Improved consistency and quality of extracted insights
 Enabled automated training and auditing material generation
 
 Increased reviewer productivity by ~40%
+
+<img width="366" height="701" alt="image" src="https://github.com/user-attachments/assets/6ffd83bd-db38-4ef7-8aa7-5f11c4ced479" />
+This should be the flow
+
