@@ -36,13 +36,12 @@ After downloading, place the model files inside the model/ directory.
 📊 Example
 
 Input:
-Two-person chat conversation
+Two or 3 person chat conversation
 
 Output:
 
 Summary capturing key discussion points
 
-5–10 auto-generated question–answer pairs for review and training
 
 📈 Impact
 
