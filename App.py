@@ -23,8 +23,10 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # -------------------------------------------------
 # LOAD MODEL & TOKENIZER
 # -------------------------------------------------
-model = T5ForConditionalGeneration.from_pretrained("./saved_summary_model")
-tokenizer = T5Tokenizer.from_pretrained("./saved_summary_model")
+MODEL_PATH = r"COPY AND ENTER SAVED_MODEL_SUMMARY PATH"
+
+model = T5ForConditionalGeneration.from_pretrained(MODEL_PATH, local_files_only=True)
+tokenizer = T5Tokenizer.from_pretrained(MODEL_PATH, local_files_only=True)
 model.to(device)
 model.eval()
 
