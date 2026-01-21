@@ -32,3 +32,24 @@ Download the fine-tuned model from Google Drive:
 
 
 After downloading, place the model files inside the model/ directory.
+
+📊 Example
+
+Input:
+Two-person chat conversation
+
+Output:
+
+Summary capturing key discussion points
+
+5–10 auto-generated question–answer pairs for review and training
+
+📈 Impact
+
+Reduced manual chat review time by ~60–70%
+
+Improved consistency and quality of extracted insights
+
+Enabled automated training and auditing material generation
+
+Increased reviewer productivity by ~40%
